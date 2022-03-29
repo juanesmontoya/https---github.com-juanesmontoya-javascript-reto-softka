@@ -1,0 +1,227 @@
+[
+    {
+        "id":0,
+        "nivel":"1",
+        "pregunta":"¿Cual de estos no es un lenguaje de programación?",
+        "respuesta":"word",
+        "incorrecta1":"C#",
+        "incorrecta2":"Java",
+        "incorrecta3":"Python"
+    },
+    {
+        "id":1,
+        "nivel":"1",
+        "pregunta":"¿Que es la programación orientada a objetos?",
+        "respuesta":"Un paradigma de programación",
+        "incorrecta1":"Un lenguaje de programación",
+        "incorrecta2":"Una herramienta para programar",
+        "incorrecta3":"Un entorno de desarrollo"
+    },
+    {
+        "id":2,
+        "nivel":"1",
+        "pregunta":"¿Que es una variable global?",
+        "respuesta":"Un dato accesible desde cualquier parte de la clase que la contiene",
+        "incorrecta1":"Un dato unico de un metodo",
+        "incorrecta2":"Un dato extraido de la base de datos",
+        "incorrecta3":"Un dato que no puede cambiar"
+    },
+    {
+        "id":3,
+        "nivel":"1",
+        "pregunta":"¿Un lenguaje compilado es?",
+        "respuesta":"Un lenguaje que debe ser transformado a codigo de maquina",
+        "incorrecta1":"Un lenguaje que crearon los mayas",
+        "incorrecta2":"Un lenguaje que compila los sinonimos",
+        "incorrecta3":"Lenguaje de bajo nivel"
+    },
+    {
+        "id":4,
+        "nivel":"1",
+        "pregunta":"¿Cual de los siguiente lenguajes se utiliza mediante etiquetas?",
+        "respuesta":"HTML",
+        "incorrecta1":"Java",
+        "incorrecta2":"Flutter",
+        "incorrecta3":"Javascript"
+    },
+    {
+        "id":5,
+        "nivel":"2",
+        "pregunta":"¿Cual de estos no es un lenguaje de programación?",
+        "respuesta":"word",
+        "incorrecta1":"C#",
+        "incorrecta2":"Java",
+        "incorrecta3":"Python"
+    },
+    {
+        "id":6,
+        "nivel":"2",
+        "pregunta":"¿Que es la programación orientada a objetos?",
+        "respuesta":"Un paradigma de programación",
+        "incorrecta1":"Un lenguaje de programación",
+        "incorrecta2":"Una herramienta para programar",
+        "incorrecta3":"Un entorno de desarrollo"
+    },
+    {
+        "id":7,
+        "nivel":"2",
+        "pregunta":"¿Que es una variable global?",
+        "respuesta":"Un dato accesible desde cualquier parte de la clase que la contiene",
+        "incorrecta1":"Un dato unico de un metodo",
+        "incorrecta2":"Un dato extraido de la base de datos",
+        "incorrecta3":"Un dato que no puede cambiar"
+    },
+    {
+        "id":8,
+        "nivel":"2",
+        "pregunta":"¿Un lenguaje compilado es?",
+        "respuesta":"Un lenguaje que debe ser transformado a codigo de maquina",
+        "incorrecta1":"Un lenguaje que crearon los mayas",
+        "incorrecta2":"Un lenguaje que compila los sinonimos",
+        "incorrecta3":"Lenguaje de bajo nivel"
+    },
+    {
+        "id":9,
+        "nivel":"2",
+        "pregunta":"¿Cual de los siguiente lenguajes se utiliza mediante etiquetas?",
+        "respuesta":"HTML",
+        "incorrecta1":"Java",
+        "incorrecta2":"Flutter",
+        "incorrecta3":"Javascript"
+    },
+    {
+        "id":10,
+        "nivel":"3",
+        "pregunta":"¿Cual de estos no es un lenguaje de programación?",
+        "respuesta":"word",
+        "incorrecta1":"C#",
+        "incorrecta2":"Java",
+        "incorrecta3":"Python"
+    },
+    {
+        "id":11,
+        "nivel":"3",
+        "pregunta":"¿Que es la programación orientada a objetos?",
+        "respuesta":"Un paradigma de programación",
+        "incorrecta1":"Un lenguaje de programación",
+        "incorrecta2":"Una herramienta para programar",
+        "incorrecta3":"Un entorno de desarrollo"
+    },
+    {
+        "id":12,
+        "nivel":"3",
+        "pregunta":"¿Que es una variable global?",
+        "respuesta":"Un dato accesible desde cualquier parte de la clase que la contiene",
+        "incorrecta1":"Un dato unico de un metodo",
+        "incorrecta2":"Un dato extraido de la base de datos",
+        "incorrecta3":"Un dato que no puede cambiar"
+    },
+    {
+        "id":13,
+        "nivel":"3",
+        "pregunta":"¿Un lenguaje compilado es?",
+        "respuesta":"Un lenguaje que debe ser transformado a codigo de maquina",
+        "incorrecta1":"Un lenguaje que crearon los mayas",
+        "incorrecta2":"Un lenguaje que compila los sinonimos",
+        "incorrecta3":"Lenguaje de bajo nivel"
+    },
+    {
+        "id":14,
+        "nivel":"3",
+        "pregunta":"¿Cual de los siguiente lenguajes se utiliza mediante etiquetas?",
+        "respuesta":"HTML",
+        "incorrecta1":"Java",
+        "incorrecta2":"Flutter",
+        "incorrecta3":"Javascript"
+    },
+    {
+        "id":15,
+        "nivel":"4",
+        "pregunta":"¿Cual de estos no es un lenguaje de programación?",
+        "respuesta":"word",
+        "incorrecta1":"C#",
+        "incorrecta2":"Java",
+        "incorrecta3":"Python"
+    },
+    {
+        "id":16,
+        "nivel":"4",
+        "pregunta":"¿Que es la programación orientada a objetos?",
+        "respuesta":"Un paradigma de programación",
+        "incorrecta1":"Un lenguaje de programación",
+        "incorrecta2":"Una herramienta para programar",
+        "incorrecta3":"Un entorno de desarrollo"
+    },
+    {
+        "id":17,
+        "nivel":"4",
+        "pregunta":"¿Que es una variable global?",
+        "respuesta":"Un dato accesible desde cualquier parte de la clase que la contiene",
+        "incorrecta1":"Un dato unico de un metodo",
+        "incorrecta2":"Un dato extraido de la base de datos",
+        "incorrecta3":"Un dato que no puede cambiar"
+    },
+    {
+        "id":18,
+        "nivel":"4",
+        "pregunta":"¿Un lenguaje compilado es?",
+        "respuesta":"Un lenguaje que debe ser transformado a codigo de maquina",
+        "incorrecta1":"Un lenguaje que crearon los mayas",
+        "incorrecta2":"Un lenguaje que compila los sinonimos",
+        "incorrecta3":"Lenguaje de bajo nivel"
+    },
+    {
+        "id":19,
+        "nivel":"4",
+        "pregunta":"¿Cual de los siguiente lenguajes se utiliza mediante etiquetas?",
+        "respuesta":"HTML",
+        "incorrecta1":"Java",
+        "incorrecta2":"Flutter",
+        "incorrecta3":"Javascript"
+    },
+    {
+        "id":20,
+        "nivel":"5",
+        "pregunta":"¿Cual de estos no es un lenguaje de programación?",
+        "respuesta":"word",
+        "incorrecta1":"C#",
+        "incorrecta2":"Java",
+        "incorrecta3":"Python"
+    },
+    {
+        "id":21,
+        "nivel":"5",
+        "pregunta":"¿Que es la programación orientada a objetos?",
+        "respuesta":"Un paradigma de programación",
+        "incorrecta1":"Un lenguaje de programación",
+        "incorrecta2":"Una herramienta para programar",
+        "incorrecta3":"Un entorno de desarrollo"
+    },
+    {
+        "id":22,
+        "nivel":"5",
+        "pregunta":"¿Que es una variable global?",
+        "respuesta":"Un dato accesible desde cualquier parte de la clase que la contiene",
+        "incorrecta1":"Un dato unico de un metodo",
+        "incorrecta2":"Un dato extraido de la base de datos",
+        "incorrecta3":"Un dato que no puede cambiar"
+    },
+    {
+        "id":23,
+        "nivel":"5",
+        "pregunta":"¿Un lenguaje compilado es?",
+        "respuesta":"Un lenguaje que debe ser transformado a codigo de maquina",
+        "incorrecta1":"Un lenguaje que crearon los mayas",
+        "incorrecta2":"Un lenguaje que compila los sinonimos",
+        "incorrecta3":"Lenguaje de bajo nivel"
+    },
+    {
+        "id":24,
+        "nivel":"5",
+        "pregunta":"¿Cual de los siguiente lenguajes se utiliza mediante etiquetas?",
+        "respuesta":"HTML",
+        "incorrecta1":"Java",
+        "incorrecta2":"Flutter",
+        "incorrecta3":"Javascript"
+    }
+]

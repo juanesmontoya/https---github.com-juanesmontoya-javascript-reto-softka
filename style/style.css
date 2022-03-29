@@ -1,0 +1,71 @@
+*{
+    transition: all 0.3s;    
+    margin: 0 auto;
+}
+h1{
+    margin: 25px;
+    text-align: center;
+}
+.contenedor{
+    width: 98vw;
+    height: 97vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.encabezado{
+    background: white;
+    color: black;
+    width: 70%;
+    padding: 10px;
+    margin: 10px;
+}
+.nivel{
+    opacity: 0.3;
+    text-align: left;
+}
+.pregunta{
+    padding: 10px;
+    text-align: center;
+    font-size: 130%;
+}
+.boton{
+    margin: 5px;
+    padding: 10px;
+    width: 65%;
+    display: flex;
+}
+.boton:hover{
+    cursor: pointer;
+    background: cadetblue;
+    transform: scale(1.1);
+}
+table{
+    max-width: 70%;
+}
+#nombreJugador{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+}
+#puntajeJugador{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+}
+img{
+    width: 100%;
+    height: 120px;
+}
+footer{
+    display: flex;
+    justify-content: end;
+    align-content: flex-end;
+}
+#guardarJugador,#playerName{
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}
